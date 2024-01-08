@@ -2,4 +2,4 @@
 
 
 
-![Wire Frame pic](./wireframe.jpg)
+![Wire Frame pic](./pizzaWireframe.jpg)
